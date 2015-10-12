@@ -24,7 +24,7 @@
  * that we need .In case we decide to display 10 closest coffee
  * shops, all we need to do is create a max-heap of size 10. In the sense, the size 
  * is customizable. For now to meet our immediate requirement, I have a reverse-ordered
- * priority queue of size 10.
+ * priority queue of size 3.
  * 
  * To make the code modular, I have split the computations to be performed into
  * different methods. So, in case we decide to compute the distance using a different
